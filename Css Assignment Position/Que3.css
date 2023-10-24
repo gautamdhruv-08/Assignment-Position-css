@@ -1,0 +1,22 @@
+ .Card {
+    padding: 10px;
+    background-color: azure;
+    border-radius: 5%;
+    text-align: center;
+ } 
+
+ .h1{
+    font-style: italic;
+    font-size: medium;
+ }
+  
+.card-content p{
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.card-image  img{
+    border-radius: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
